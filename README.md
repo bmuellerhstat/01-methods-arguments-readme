@@ -117,7 +117,7 @@ greeting_programmer("Steven", "Python")
 
 To accept multiple parameters, simply separate the bare words in the argument list with commas.
 
-### Required Arguments
+### Required Parameters
 
 Once you define parameters for a method, they become required when you invoke or call the method. If you define a method that accepts a singular parameter, when you call that method, you must supply a single value for that argument, otherwise, you get an `ArgumentError`. Here's an example:
 
